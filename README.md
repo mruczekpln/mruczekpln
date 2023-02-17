@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is leonwdev ================================================================================================================================  fullstack webdev wannabe ------------------------  been coding for almost 2 years now. 16yo. started with python, now focusing on frontend/fullstack concepts.  * 🌍  I'm based in Poland * ✉️  You can contact me at [leonwdev@gmail.com](mailto:leonwdev@gmail.com) * 🧠  I'm learning MongoDB * 🤝  I'm open to collaborating on fun and expriencing projects
+# fullstack webdev wannabe 
+
+been coding for almost 2 years now. 16yo. started with python, now focusing on frontend/fullstack concepts.
+
+* 🌍  I'm based in Poland 
+* ✉️  You can contact me at [leonwdev@gmail.com](mailto:leonwdev@gmail.com) 
+* 🧠  I'm learning MongoDB 
+* 🤝  I'm open to collaborating on fun and expriencing projects
 
 ### Skills  
 
@@ -7,3 +14,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Badges
 
 <a href="https://github.com/yummycoffee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummycoffee&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ 
