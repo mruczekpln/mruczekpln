@@ -1,18 +1,46 @@
-# fullstack webdev wannabe 
+<div id="header" align="center">
+<h1>@mruczekpln</h1>
+  <div id="badges">
+    <a href="https://mruczek-pln.vercel.app">
+      <img src="https://img.shields.io/badge/port-folio-white?style=for-the-badge&logo=counterstrike&logoColor=white&labelColor=black" />
+    </a>
+    <br>
+    <img src="https://img.shields.io/badge/@mruczekpln-white?style=for-the-badge&logo=discord&logoColor=white&labelColor=black" />
+    <a href="https://twitter.com/mruczekpln">
+      <img src="https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=x&logoColor=white&labelColor=black" />
+    </a>
+  </div>
+</div>
 
-been coding for almost 2 years now. 16yo. started with python, now focusing on frontend/fullstack concepts.
+## 🧱 Personal Projects
 
-* 🌍  I'm based in Poland 
-* ✉️  You can contact me at [leonwdev@gmail.com](mailto:leonwdev@gmail.com) 
-* 🧠  I'm learning MongoDB 
-* 🤝  I'm open to collaborating on fun and expriencing projects
+- [<ins>**TastyBites**</ins>](https://github.com/mruczekpln/tastybites) - a recipe sharing and creation app built using NextJS 14, offering a platform for users to share and create culinary recipes.
+- [<ins>**Zephyr**</ins>](https://github.com/mruczekpln/zephyr) - a weather app, It provides real-time weather information to users, helping them stay informed about current weather conditions in various locations.
+- [<ins>**Lowel**</ins>](https://github.com/mruczekpln/lowel) - front-end layer for a e-commerce shop with pre-planned design and fancy animations using framer-motion lib.
 
-### Skills  
+And more... check my repos.
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/yummycoffee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/rudziutki123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
+## 🕵️‍♂️ Worked with
 
-<a href="https://github.com/yummycoffee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummycoffee&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![sql](https://img.shields.io/badge/SEQUEL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
- 
+![js](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![ts](https://img.shields.io/badge/typescript-darkblue?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
+![nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextdotjs)
+
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![trpc](https://img.shields.io/badge/trpc-blue?style=for-the-badge&logo=trpc&logoColor=white)
+![React Router](https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Radix](https://img.shields.io/badge/radixui-000000?style=for-the-badge&logo=radixui)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-0044FF?style=for-the-badge&logo=supabase&logoColor=white)
+![PlanetScale](https://img.shields.io/badge/planetscale-black?style=for-the-badge&logo=planetscale)
+![NextAuth.js](https://img.shields.io/badge/nextauth-purple?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![DrizzleORM](https://img.shields.io/badge/drizzleorm-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Framer](https://img.shields.io/badge/framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
